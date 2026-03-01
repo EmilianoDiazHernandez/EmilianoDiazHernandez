@@ -47,10 +47,10 @@ I love solving complex problems and keeping my code as clean as my workspace.
 
 ### 📊 Github Stats
 <div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emilianodiazhernandez&theme=tokyonight" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=emilianodiazhernandez&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emilianodiazhernandez&theme=tokyonight" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=emilianodiazhernandez&theme=tokyonight&hide_border=true" />
   <br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=emilianodiazhernandez&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emilianodiazhernandez&theme=tokyonight" />
 </div>
 
 ---
